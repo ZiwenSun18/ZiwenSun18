@@ -1,5 +1,5 @@
-- 👋 Hi, it's Ziwen Sun
-- Student In Economics/Finance at Xi'an Jiaotong University
+- Hi, it's Ziwen Sun
+
 
 <!---
 ZiwenSun18/ZiwenSun18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
