@@ -1,4 +1,4 @@
-- Hi, it's Ziwen Sun
+- Hi, it's Ziwen
 
 
 <!---
